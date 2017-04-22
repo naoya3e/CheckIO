@@ -1,3 +1,3 @@
-# CheckIO
+# CheckiO
 
-Challenge to CheckIO
+Challenge to CheckiO
